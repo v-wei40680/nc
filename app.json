@@ -1,0 +1,14 @@
+{
+    "name": "xc",
+    "description": "xc",
+    "keywords": ["xc"],
+    "env": {
+        "UUID": {
+            "description": "xc",
+            "value": "44f49b6a-9054-42ce-b1aa-f9a510a80dfb",
+            "required": true        
+        }
+    },
+    "repository": "",
+    "stack": "container"
+}
