@@ -32,4 +32,4 @@ EOF
 
 #run xray
 
-xray -c /etc/xray/config.json & ./gin_mem
+xray -c /etc/xray/config.json & /gin_mem
