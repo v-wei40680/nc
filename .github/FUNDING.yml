@@ -12,4 +12,10 @@ lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cl
 polar: mcp-linker
 buy_me_a_coffee: # Replace with a single Buy Me a Coffee username
 thanks_dev: # Replace with a single thanks.dev username
-custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+custom:
+  - name: Polar Donate
+    url: https://buy.polar.sh/polar_cl_4hLxfGGjyEuiyX6zBlVp2HNzygaGJZuPT3AvC2cUzlH
+  - name: USDC (ERC20) · 0xBE18F2cf09eE294781B98DBB1653f64ed54a911C
+    url: https://github.com/milisp/codexia#💖-support
+  - name: Bitcoin (BTC) · bc1qg6xyywh76wkz9glf7n5pnt458yczzgk9eykkt9
+    url: https://github.com/milisp/codexia#💖-support
